@@ -1,0 +1,14 @@
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\bin\Debug\net6.0\PeselJakubCzaja.exe
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\bin\Debug\net6.0\PeselJakubCzaja.deps.json
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\bin\Debug\net6.0\PeselJakubCzaja.runtimeconfig.json
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\bin\Debug\net6.0\PeselJakubCzaja.dll
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\bin\Debug\net6.0\PeselJakubCzaja.pdb
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\obj\Debug\net6.0\PeselJakubCzaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\obj\Debug\net6.0\PeselJakubCzaja.AssemblyInfoInputs.cache
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\obj\Debug\net6.0\PeselJakubCzaja.AssemblyInfo.cs
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\obj\Debug\net6.0\PeselJakubCzaja.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\obj\Debug\net6.0\PeselJakubCzaja.dll
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\obj\Debug\net6.0\refint\PeselJakubCzaja.dll
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\obj\Debug\net6.0\PeselJakubCzaja.pdb
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\obj\Debug\net6.0\PeselJakubCzaja.genruntimeconfig.cache
+C:\Users\Kuba\source\repos\PeselJakubCzaja\PeselJakubCzaja\obj\Debug\net6.0\ref\PeselJakubCzaja.dll
